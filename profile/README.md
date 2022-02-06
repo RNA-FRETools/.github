@@ -1,1 +1,1 @@
-![](profile/rna-fretools_banner.png)
+![](rna-fretools_banner.png)
